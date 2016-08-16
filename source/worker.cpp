@@ -6,6 +6,6 @@ void tWorker::print()
 
 
 
-	std::cout<<"\n I am Worker version 1 \n";
+	std::cout<<"\n I am Worker version 2 \n";
 
 } 
